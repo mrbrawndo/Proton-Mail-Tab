@@ -19,11 +19,9 @@ For best results, ensure that Thunderbird's cookie settings are set up to keep P
 
 ## Acknowledgements: 
 ### vinceluiice
-https://github.com/vinceliuice/Qogir-icon-theme
 https://github.com/vinceliuice/Qogir-icon-theme/blob/master/src/24/panel/protonmail-indicator.svg
 The main version icon is taken from the Qogir icon theme
 
 ### Papirus Development Team
-https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/protonmail-desktop.svg
 The alternative version icon is taken from the Papirus icon theme
