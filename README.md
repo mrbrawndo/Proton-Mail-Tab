@@ -18,7 +18,7 @@ For best results, ensure that Thunderbird's cookie settings are set up to keep P
 - The alternative version (protontab-1.1b-AltIcons-tb.xpi) uses a Material Design-like with a grey circle background that should be suitable on any background.
 
 ## Acknowledgements: 
-### vinceluiice
+### vinceliuice
 https://github.com/vinceliuice/Qogir-icon-theme/blob/master/src/24/panel/protonmail-indicator.svg
 
 The main version icon is taken from the Qogir icon theme
