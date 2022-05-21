@@ -14,7 +14,7 @@ For best results, ensure that Thunderbird's cookie settings are set up to keep P
 
 ## Customization:
 - ProtonTab does not provide any options interface or otherwise toggleable features. 
-- The primary release version (protontab-1.1-tb.xpi) uses a nearly white monochrome icon that is best for use with a dark theme or on a dark toolbar.
+- The main release version (protontab-1.1-tb.xpi) uses a nearly white monochrome icon that is best for use with a dark theme or on a dark toolbar.
 - The alternative version (protontab-1.1b-AltIcons-tb.xpi) uses a Material Design-like with a grey circle background that should be suitable on any background.
 
 ## Acknowledgements: 
