@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
-  "version": "1.1",
+  "version": "2.0",
   "default_locale": "en",
   "applications": {
     "gecko": {
@@ -11,7 +11,9 @@
     }
   },
   "icons": {
-    "48": "icons/48.png"
+    "48": "icons/appicon_48.png",
+    "128": "icons/appicon_128.png",
+    "256": "icons/appicon_256.png"
   },
   "background": {
     "scripts": ["background.js"]
@@ -20,10 +22,10 @@
     "browser_style": true,
     "default_title": "__MSG_browseractionCaption__",
     "default_icon": {
-      "16": "icons/16.png",
-      "32": "icons/32.png",
-      "64": "icons/64.png",
-      "128": "icons/128.png"
+      "16": "icons/gs_16.png",
+      "32": "icons/gs_32.png",
+      "64": "icons/gs_64.png",
+      "128": "icons/gs_128.png"
     }
   },
   "developer": {

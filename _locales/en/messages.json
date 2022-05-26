@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Proton Mail Tab",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Opens Proton Mail in a Thunderbird tab.",
+    "description": "Description of the extension."
+  },
+
+  "browseractionCaption": {
+    "message": "Proton Mail",
+    "description": "Caption of the tool bar button."
+  }
+} 
